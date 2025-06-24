@@ -15,15 +15,17 @@ A fun computer vision project that uses:
 ## 🚀 How to Run
 
 1. Clone the repo
+
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-Replace the video path in main.py with your own:
+3. Replace the video path in main.py with your own:
+
 ```python
 cap = cv2.VideoCapture("your_video.mp4")
 ```
-Run it:
+4. Run it:
 
 ```bash
 python main.py
