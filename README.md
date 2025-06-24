@@ -22,14 +22,14 @@ A fun computer vision project that uses:
    ```
 3. Replace the video path in main.py with your own:
 
-```python
-cap = cv2.VideoCapture("your_video.mp4")
-```
+   ```python
+   cap = cv2.VideoCapture("your_video.mp4")
+   ```
 4. Run it:
-
-```bash
-python main.py
-```
+   
+   ```bash
+   python main.py
+   ```
 
 
 🎥⚠️ **Privacy Note:** Due to privacy, the input video used for testing is not included. To test, use any short video with a person walking across the frame. Update the path to your video in `main.py`.
